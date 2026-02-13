@@ -1,0 +1,2 @@
+https://www.geeksforgeeks.org/python/opencv-python-program-face-detection/
+credit for python code
